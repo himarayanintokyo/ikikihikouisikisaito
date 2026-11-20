@@ -1,5 +1,5 @@
-body {  
-    width: 100%;
+body {
+      width: 100%;
 max-width: 480px;
 margin: 0 auto;
   .album-card {
@@ -9,6 +9,15 @@ padding:8px;
     width: 153px;
     margin: 0;
 }
+  .category{
+    margin-left:20px ;
+    margin-right:20px ;
+  ;
+  }
+  .back01.jpg{
+   width: 50%;
+    height: auto;
+  }
   .text-row h2 {
   display: inline;
   margin-left: 20px;
@@ -71,7 +80,7 @@ h2{text-align: center;
   }
 h3 {
   font-size: 18.6px;
-    margin-left: 20px;
+  margin-left: 20px;
   margin-right: 20px;
 }
 a{
