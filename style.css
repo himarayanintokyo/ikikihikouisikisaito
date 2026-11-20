@@ -1,0 +1,264 @@
+body {
+  .album-card {
+border: 1px solid #000000;
+padding:8px;
+  margin: 8px;
+    width: 153px;
+    margin: 0;
+}
+  .text-row h2 {
+  display: inline;
+  margin-left: 20px;
+    color:#000000;
+}
+   .text-row p {
+  display: inline;
+  margin-left:px;
+   }
+.image-banner {
+  position: relative;
+}
+  .image-banner img{
+    width: 100%;
+    display: block;
+  }
+  .image-banner h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  margin: 0;
+  }
+  .album-card img{
+    display: block;
+    width:100%;
+    max-width:  width max;
+    height: auto;
+    box-sizing: border-box;
+  }
+  .news-title a{
+    font-family: sans-serif;
+    font-size: 18px;
+    color:#ddbc00;
+ text-decoration:none;
+  margin-right:35px;
+  }
+  background-color: #ffffff;
+  color: #000000;
+}
+h1{text-align: center;
+   padding:10px;
+   font-size:38px;
+   font-family:serif;
+   letter-spacing: 15px;
+   margin-bottom: -20px;
+   margin-top: -10px;
+  }
+
+.album-page {
+  color:#000000;
+}
+.album-page h1{
+  margin-bottom: 10px;
+}
+h2{text-align: center;
+  font-size:38px;
+   color:#ff0000;
+  }
+h3 {
+  font-size: 18.6px;
+}
+a{
+  color:#31d;
+ text-decoration:none;
+  margin-right:35px;
+  margin: 0;
+  padding: 0;
+}
+.album-list {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.album-list a{
+  color:#000000;
+}
+.news-title h3{
+  text-align: center;
+  
+}
+.index-header{
+  background-image: url("back01.jpg");
+  background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;  
+   
+  min-height: 200px;
+  padding:30px;
+ box-sizing: border-box;
+  display: flex;
+}
+.index-header a{
+  color:#ff0000;
+  font-family: sans-serif;
+  display: block;
+  margin-bottom: 20px;
+  font-size: 20px;
+   font-weight: bold;
+  font-style: italic;
+}
+
+.index-header h1{
+  margin: 0;
+  color:#ffffff;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: 3px;
+}
+.Produced{
+  text-align: center;
+}
+.New-Release{
+  background-image: url("New Release.jpg");
+  background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;  
+  min-height: 360px;
+  padding:10px;
+ box-sizing: border-box;
+  color:#ffffff
+}
+.New-Release h1{
+  text-align: center;
+  margin-top: -40px;
+  color:#ffffff;
+}
+.New-Release p{
+  color:#000000
+}
+.news-info h3　a{
+  color:#eeeeee;
+  text-align:left;
+}
+.youtube-thumb{
+  text-align: center;
+}
+.youtube-thumb h3{
+  color:#65bbe9
+}
+img{
+  width: 370;
+  height: 400;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+footer{
+  background-color:#000000;
+  color:#ffffff;
+  padding: 20px;
+  width: 100%;
+  margin-top: 50px;
+  box-sizing:border-box;
+}
+footer h2{
+  color: #ffffff;
+  margin-top: 5;
+  font-size:25px;
+}
+footer a{
+color: #ffffff;
+  margin-top: 10px;
+}
+.footer-links{
+  display:flex;
+  gap: 5px;
+  flex-wrap:wrap;
+}
+.footer-links a{
+  color:#ffffff;
+ text-decoration:none;
+  margin-right:35px;
+}
+
+.news-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  padding: 20px;
+}
+
+.news-card {
+  width: 370px;
+}
+
+.news-card img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  display: block;
+}
+
+.news-card a {
+  color: black;
+  text-decoration: none;
+}
+.news-card p {
+  margin-top: -20px;
+  text-align:center;
+}
+
+.news-card h2 {
+  font-size: 18px;
+  margin-top: 10px;
+  color:#000000
+}
+.news-date {
+  font-size: 13px;
+  margin-top: 8px;
+  margin-bottom: 10px;
+}
+.news00 {
+  background-image: url("News00.jpg");
+  background-position: center;
+  background-repeat: no-repeat;  
+  min-height: 360px;
+  padding:10px;
+ box-sizing: border-box;
+  color:#ffffff;
+}
+.news00 h1{
+  margin-top: 130px;
+}
+
+.column-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  padding: 20px;
+}
+
+.column-card {
+  width: 370px;
+}
+
+.column-card img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  display: block;
+}
+
+.column-card a {
+  color: black;
+  text-decoration: none;
+}
+.column-card p {
+  margin-top: -20px;
+  text-align:center;
+}
+
+.column-card h2 {
+  font-size: 18px;
+  margin-top: 10px;
+  color:#000000
+}
