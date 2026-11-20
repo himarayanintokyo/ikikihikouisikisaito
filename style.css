@@ -1,13 +1,13 @@
-body {
+body {  
+    width: 100%;
+max-width: 480px;
+margin: 0 auto;
   .album-card {
 border: 1px solid #000000;
 padding:8px;
   margin: 8px;
     width: 153px;
     margin: 0;
-    width: 100%;
-max-width: 480px;
-margin: 0 auto;
 }
   .text-row h2 {
   display: inline;
