@@ -204,12 +204,11 @@ color: #ffffff;
 }
 
 .news-card {
-  width: 370px;
+  width: 450px;
 }
 
 .news-card img {
   width: 100%;
-  aspect-ratio: 16 / 9;
   display: block;
 }
 
@@ -257,8 +256,7 @@ color: #ffffff;
 }
 
 .column-card img {
-  width: 100%;
-  aspect-ratio: 16 / 9;
+  width: 400px;
   display: block;
 }
 
